@@ -6,7 +6,7 @@
    as a prop (call the prop **list**) and render it as a unordered
    list using map.
 
-2. Inside App.js there is an Array callsed data1 contining names
+2. Inside App.js there is an Array callsed data2 contining names
    Create a Component called PersonList, that takes this Array
    as a prop (call the prop **list**) and render it as a table
    using map.
